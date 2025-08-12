@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 - 🎓 Pursuing **B.E. in ECE** at VSB College of Engineering Technical Campus  
-- 🌱 Currently learning **C, Python, Java, SQL, and IoT Systems**  
+- 🌱 Currently learning **C, Java, SQL, and IoT Systems**  
 - 🛠 Skilled in **Arduino, Raspberry Pi ,PCB Design (KiCad)**  
 - 🏆 Worked on projects like:  
   - IoT-Based Air Pollution Monitoring System  
