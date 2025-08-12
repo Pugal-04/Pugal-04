@@ -1,18 +1,18 @@
 <!-- Animated typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00CFFF&background=0D1117&center=true&vCenter=true&width=600&lines=Electronics+Engineer;IoT+Developer;VLSI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00CFFF&background=0D1117&center=true&vCenter=true&width=600&lines=Electronics+Engineer;IoT+Developer;SQL" alt="Typing SVG" />
 </p>
 
 # Hi there 👋, I'm Pugalendran
 
-🚀 **Electronics & Communication Engineering Student** | IoT & Embedded Systems Enthusiast | VLSI Learner  
+🚀 **Electronics & Communication Engineering Student** | IoT & Embedded Systems Enthusiast
 
 ---
 
 ## 🧑‍💻 About Me
 - 🎓 Pursuing **B.E. in ECE** at VSB College of Engineering Technical Campus  
 - 🌱 Currently learning **C, Python, Java, SQL, and IoT Systems**  
-- 🛠 Skilled in **Arduino, Raspberry Pi, PCB Design (KiCad, ORCAD)**  
+- 🛠 Skilled in **Arduino, Raspberry Pi ,PCB Design (KiCad)**  
 - 🏆 Worked on projects like:  
   - IoT-Based Air Pollution Monitoring System  
   - Smart IoT-Based Safety Footwear for Human Protection  
@@ -21,23 +21,18 @@
 ---
 
 ## 🔧 Tech Stack
-
+[![HackerRank]()](https://www.hackerrank.com/profile/pugalendranm3)
 **Languages**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+*Currently learning SQL for database management and querying*  
 
-**Tools & Platforms**  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 - 🌍 IoT Air Pollution Monitoring — Detects harmful gases & displays levels in real-time  
 - 🚦 Smart Traffic Light System for Ambulances — LoRa-based priority traffic control  
-- 👟 Smart Safety Footwear — Sends GPS alerts in emergencies  
+- 👟 Smart Safety Footwear — Sends GPS alerts in emergencies
 
 ---
 
