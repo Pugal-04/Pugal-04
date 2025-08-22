@@ -1,6 +1,6 @@
 <!-- Animated typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00CFFF&background=0D1117&center=true&vCenter=true&width=600&lines=Electronics+Engineer;IoT+Developer;SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00CFFF&background=0D1117&center=true&vCenter=true&width=600&lines=Electronics+Communication+Engineer;IoT+Developer;MATLAB" alt="Typing SVG" />
 </p>
 
 # Hi there 👋, I'm Pugalendran
