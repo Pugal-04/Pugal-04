@@ -21,11 +21,11 @@
 ---
 
 ## 🔧 Tech Stack
-[![HackerRank]()](https://www.hackerrank.com/profile/pugalendranm3)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/pugalendranm3)
 **Languages**  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-*Currently learning SQL for database management and querying*  
-
+*Currently learning SQL for database management and querying*
 
 ---
 
